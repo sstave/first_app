@@ -1,3 +1,9 @@
+#First application for the ROR 3 tut.
+
+This is the first app for [*Ruby on Rails Tutorial: Learn by example*](http://railstutorial.org/)
+by mike h
+
+
 == Welcome to Rails
 
 Rails is a web-application framework that includes everything needed to create
